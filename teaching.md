@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching
+---
+
 # Teaching Portfolio
 ## From preK and beyond!
 ### Social Justice Oriented Pedagogy
