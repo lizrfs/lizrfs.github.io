@@ -1,37 +1,7 @@
-## Liz Foster-Shaner
+# Liz Foster-Shaner
 
-You can use the [editor on GitHub](https://github.com/lizrfs/lizrfs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Liz Foster-Shaner is a civic artist developing creative social justice programs that focus on community-building, risk-taking, and an analysis of systemic inequity. She holds a PhD in Theatre Research from University of Wisconsin-Madison and a BA in Theatre and Political Science from University of California, Berkeley. Liz’s doctoral research, praxis, and teaching focused on theatre for cultural and social awareness and the development and representation of community both on and off the stage. She carries that analysis of community into her work with individuals and organizations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Currently, with funding from Heinz Endowments, the Three Rivers Community Foundation, and Remake Learning, Liz is co-developing workshops and projects that examine and reimagine our roles and opportunities for change as active citizens of our local communities and places of practice. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizrfs/lizrfs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## As a Diversity, Equity, and Inclusion consultant with Inclusant, Liz has facilitated workshops and trainings for the Racial Justice Summit, Pittsburgh Inclusive Innovation Week, the Pittsburgh Cultural Trust, the Urban Redevelopment Authority, Carlow University, Carnegie Mellon University, and Indiana University of Pennsylvania, among others.
