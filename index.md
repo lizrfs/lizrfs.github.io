@@ -19,8 +19,8 @@
    * Making space for infinite experiences of practice and play with special consideration of diverse physical and mental abilities and modes of engaging with the practice and world    
 * __Community-Based Performance__
 * __Developing new methods of consent and collaboration in civic art that are *ethical* and *empowering*__
-* __Diversity, Equity, and Inclusion consulting that is sustainable, ethical, and effective
+* __Diversity, Equity, and Inclusion consulting that is sustainable, ethical, and effective__
    * Considering my role as a White woman in Diversity, Equity and Inclusion work
    * How and when to move beyond the interpersonal and behavioral to systemic change
-* __The importance of *JOY* in all of the above!
-* __Reality TV in all of its delicious awfulness
+* __The importance of *JOY* in all of the above!__
+* __Reality TV in all of its delicious awfulness__
