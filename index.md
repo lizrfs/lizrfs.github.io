@@ -24,3 +24,4 @@
    * How and when to move beyond the interpersonal and behavioral to systemic change
 * __The importance of *JOY* in all of the above!__
 * __Reality TV in all of its delicious awfulness__
+* __Exploring sustainable ways to stay present with my children even as I am considering all of the above...__
