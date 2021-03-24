@@ -10,13 +10,17 @@
 
 ## My current interests and curiosities: 
 
-* Arts Integration across subjects in prek-12 schools
-* Theatre of the Oppressed
+* __Arts Integration across subjects in prek-12 schools__
+* __Theatre of the Oppressed__
    * Co-jokering
    * Adapting practices to meet the needs of individuals and communities
    * Incorporating consent into TO facilitation
    * Examining power dynamics in the role of the TO joker
    * Making space for infinite experiences of practice and play with special consideration of diverse physical and mental abilities and modes of engaging with the practice and world    
-* Community-Based Performance
-* Developing new methods of consent and collaboration in civic art that are *ethical* and *empowering*
-* 
+* __Community-Based Performance__
+* __Developing new methods of consent and collaboration in civic art that are *ethical* and *empowering*__
+* __Diversity, Equity, and Inclusion consulting that is sustainable, ethical, and effective
+   * Considering my role as a White woman in Diversity, Equity and Inclusion work
+   * How and when to move beyond the interpersonal and behavioral to systemic change
+* __The importance of *JOY* in all of the above!
+* __Reality TV in all of its delicious awfulness
