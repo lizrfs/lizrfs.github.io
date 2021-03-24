@@ -1,6 +1,6 @@
 # About me
 
-### I am a civic artist developing creative social justice programs that focus on community-building, risk-taking, and an analysis of systemic inequity. I have a PhD in Theatre Research from University of Wisconsin-Madison and a BA in Theatre, Dance, and Performance Studies and Political Science from University of California, Berkeley. My doctoral research, praxis, and teaching focused on theatre for cultural and social awareness and the development and representation of community both on and off the stage. I carry that analysis of community into my work with individuals and organizations. 
+###  I am a White, cis-gendered woman, mother, educator, artist, and activist, originally from Jenner, CA and currently finding my place, purpose, and community in Pittsburgh, PA. In Pittsburgh, I am collaborating with others to develop creative social justice programs that focus on community-building, risk-taking, and an analysis of systemic inequity. I have a PhD in Theatre Research from University of Wisconsin-Madison and a BA in Theatre, Dance, and Performance Studies and Political Science from University of California, Berkeley. My doctoral research, praxis, and teaching focused on theatre for cultural and social awareness and the development and representation of community both on and off the stage. I carry that analysis of community into my work with individuals and organizations. 
 
 ### Currently, with funding from Heinz Endowments, the Three Rivers Community Foundation, and Remake Learning, I am co-developing workshops and projects that examine and reimagine our roles and opportunities for change as active citizens of our local communities and places of practice. 
 
@@ -12,9 +12,11 @@
 
 * Arts Integration across subjects in prek-12 schools
 * Theatre of the Oppressed
-  * Co-jokering
-  * Adapting practices to meet the needs of individuals and communities
-  *     
+   * Co-jokering
+   * Adapting practices to meet the needs of individuals and communities
+   * Incorporating consent into TO facilitation
+   * Examining power dynamics in the role of the TO joker
+   * Making space for infinite experiences of practice and play with special consideration of diverse physical and mental abilities and modes of engaging with the practice and world    
 * Community-Based Performance
 * Developing new methods of consent and collaboration in civic art that are *ethical* and *empowering*
 * 
