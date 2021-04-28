@@ -28,18 +28,19 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Liz Foster-Shaner</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
       <nav>
         <ul>
           <li><a href="/">About Me</a></li>
           <li><a href="/teaching">Teaching</a></li>
           <li><a href="/facilitation_consulting">Facilitation & Consulting</a></li>
+          <li><a href="/civic_art">Civic Art</a></li>
         </ul>
       </nav>
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
