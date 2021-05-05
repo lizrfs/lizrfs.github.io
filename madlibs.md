@@ -9,7 +9,73 @@
         <div>
             <label for="plural-noun1">Plural Noun</label>
             <input type="text" name="plural-noun1"
-            placeholder="plural noun" />
+            placeholder="Plural Noun" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="noun1">Noun</label>
+            <input type="text" name="noun1"
+            placeholder="Noun" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="adjective2">Adjective</label>
+            <input type="text" name="adjective2"
+            placeholder="Adjective" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="part_of_the_body1">Part of the Body</label>
+            <input type="text" name="part_of_the_body1"
+            placeholder="Part of the Body" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="adjective3">Adjective</label>
+            <input type="text" name="adjective3"
+            placeholder="Adjective" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="plural-noun2">Plural Noun</label>
+            <input type="text" name="plural-noun2"
+            placeholder="Plural Noun" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="part_of_the_body2">Part of the Body</label>
+            <input type="text" name="part_of_the_body2"
+            placeholder="Part of the Body" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="adjective4">Adjective</label>
+            <input type="text" name="adjective4"
+            placeholder="Adjective" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="adverb1">Adverb</label>
+            <input type="text" name="adverb1"
+            placeholder="Adverb" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="noun2">Noun</label>
+            <input type="text" name="noun2"
+            placeholder="Noun" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="part_of_the_body_-_plural">Part of the Body-Plural</label>
+            <input type="text" name="part_of_the_body_-_plural"
+            placeholder="Part of the Body-Plural" />
+        </div>
+        <input type="submit" />
+        <div>
+            <label for="adverb2">Adverb</label>
+            <input type="text" name="adverb2"
+            placeholder="Adverb" />
         </div>
         <input type="submit" />
     </form>
